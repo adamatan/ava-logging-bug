@@ -4,7 +4,7 @@
   "description": "",
   "main": "run.js",
   "dependencies": {
-    "ava": "^0.22.0"
+    "ava": "^5.1.0"
   },
   "devDependencies": {
     "eslint": "^4.7.2",
